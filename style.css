@@ -1,0 +1,23 @@
+/* Color theme
+Primary: 416D19 ,
+font color :9BCF53 
+Secondary: A7ECEE ,
+
+warm  :red;
+
+ */
+
+ .q1{
+    font-size: 32px;
+    color: #416D19;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ .q2{
+    font-size: 20px;
+    color: #A7ECEE;
+ }
+
+ #q3{
+    font-size: 20px;
+    color: #9BCF53;
+ }
